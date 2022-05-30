@@ -5,4 +5,4 @@ void main() {
 	printf("Hello World!");
 	fgetc(stdin);
 
-}
+};
